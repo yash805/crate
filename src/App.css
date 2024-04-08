@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.a{
+  height: 20px;
+  width: 20px;
+  margin-top: 20px;
+}
+.b{
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.c{
+  display: flex;
+ 
+}
+.c li {
+  list-style-type: none;
+  margin: 20px;
+}
+.age{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* list-style-type: none; */
+  text-decoration: none;
+}
+
+.ho li{
+  list-style-type: none;
+}
+.ma{
+  display: flex;
+
+}
+
+.a{
+  margin-left: 20px;
+}
